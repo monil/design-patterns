@@ -1,0 +1,2 @@
+I am going to be read with decorator pattern
+Ofcourse as stackable traits in scala
