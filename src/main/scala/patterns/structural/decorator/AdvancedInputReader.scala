@@ -1,7 +1,7 @@
 package patterns.structural.decorator
 
 import java.io.BufferedReader
-
+import scala.collection.compat.immutable.LazyList
 import scala.jdk.CollectionConverters._
 
 
